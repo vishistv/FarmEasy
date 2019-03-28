@@ -114,7 +114,7 @@ if ((   //if HTTP authentication is used, we don’t need to validate the form f
 ) || (  //if an input form was submitted:
         FORM_SUBMIT &&
         //are the name and password non-blank?
-        NAME && PASS &&
+        NAME &&
         //the email check is a fake hidden field in the form to try and fool spam bots
         isset ($_POST['email']) && @$_POST['email'] == 'example@abc.com'
 )) {

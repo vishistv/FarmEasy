@@ -382,7 +382,7 @@ form#nnf_admin input            {margin-left: 20px; padding-left: 20px; border: 
 
 footer                          {position: absolute; height: 60px; margin: 0; padding: 20px 0 0; left: 0; right: 0;
                                  _width: 125%; /*< IE6 has to override the 80% with a reverse %'age gain */
-                                 background: #222;}
+                                 background: #96c93d;}
 
 footer p                        {margin: 0 auto 0 10%; font-size: .9em; color: #f7f6f7;}
 footer p a                      {color: #888;}

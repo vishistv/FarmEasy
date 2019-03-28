@@ -35,6 +35,6 @@
 //colour for Windows 8 to use on the Start Screen when a user pins the site.
 //note that this colour is not guaranteed to be used as-is, Windows 8 changes the colour into a nearby colour that it knows
 //warning: you can’t use shorthand colour notation (i.e. "#222")
-@define ('METRO_COLOUR',        '#222222');
+@define ('METRO_COLOUR',        '#96c93d');
 
 ?>
